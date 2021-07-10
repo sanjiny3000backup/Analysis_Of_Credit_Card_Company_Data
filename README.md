@@ -1,5 +1,6 @@
 # Analysis_Of_Credit_Card_Company_Data
 [POSCO_AC_Project] 'S카드사' 카드 사용 특성을 반영한  차별화된 서비스 제공 및 텔레마케팅  성공 예측 모델 개발로 수익 향상
+
 ---
 ## Card_data
 - 옵션에서 결측치 확인 => 'S'카드사 홈페이지 크롤링을 통해 결측치 처리
