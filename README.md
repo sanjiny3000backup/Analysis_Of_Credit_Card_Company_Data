@@ -3,7 +3,8 @@
 
 ---
 ## Data
-데이터 csv 파일은 공유하지 않음.
+데이터 csv 파일은 공유하지 않음.   
+변수 설명 : [카드_변수정의서.pptx](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6796525/_.pptx)
 #### Card_data
 - 옵션에서 결측치 확인 => 'S'카드사 홈페이지 크롤링을 통해 결측치 처리
 - 주옵션 4가지(후불교통, 가족카드, 현금기능, IC기능)에 대해 One-Hot-Encoding
@@ -38,5 +39,5 @@
   ![개선안2-1](https://user-images.githubusercontent.com/80561963/125186971-3777b400-e268-11eb-82fe-07e8249e3f80.PNG)  
   ![개선안2-2](https://user-images.githubusercontent.com/80561963/125186982-4cecde00-e268-11eb-9272-4b4090f39fd4.PNG)
 ---
-Report
+## Report
 [포스코 아카데미 빅데이터 프로젝트.pptx](https://github.com/colin9597/Analysis_Of_Credit_Card_Company_Data/files/6796524/default.pptx)
