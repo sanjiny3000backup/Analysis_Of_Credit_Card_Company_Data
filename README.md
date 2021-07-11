@@ -27,3 +27,6 @@
 #### Crawling_final
 - 'S' 카드사 홈페이지에서 Card_data의 카드 종류별 카드 옵션, 카드 사진을 긁어옴.
 ---
+## 구성도
+![구성도](https://user-images.githubusercontent.com/80561963/125186708-e2876e00-e266-11eb-8af9-e0a69929bda4.png)
+---
