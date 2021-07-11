@@ -23,5 +23,7 @@
   \- 요일 (<- 사용일자)   
   \- 경제활동인구 (<- 직업군)
 #### Merge_Data
-- 'Card_ID'를 기준으로 Card_data + Card_Spending, Card_data + Telemarketing 
-- EDA
+- 'Card_ID'를 기준으로 merge_data1(= Card_data + Card_Spending), merge_data2(= Card_data + Telemarketing) 생성 
+#### Crawling_final
+- 'S' 카드사 홈페이지에서 Card_data의 카드 종류별 카드 옵션, 카드 사진을 긁어옴.
+---
