@@ -32,4 +32,7 @@
 ---
 ## 개선안 설명
 - 개선안1 : 20대 고객의 다양한 트랜드를 겨냥한 인기 있는 특정 기업과의 제휴 및 서비스 제공이 되는 신용카드 상품 출시
+  ![개선안1](https://user-images.githubusercontent.com/80561963/125186965-30e93c80-e268-11eb-8483-1ddd0a44c9a6.PNG)
 - 개선안2 : 고객 특성 분석을 통한 텔레마케팅 성공 예측 시스템 개발
+  ![개선안2-1](https://user-images.githubusercontent.com/80561963/125186971-3777b400-e268-11eb-82fe-07e8249e3f80.PNG)  
+  ![개선안2-2](https://user-images.githubusercontent.com/80561963/125186982-4cecde00-e268-11eb-9272-4b4090f39fd4.PNG)
